@@ -10,7 +10,6 @@ import java.util.Objects;
 
 /**
  * @author Vinayasimha Patil
- *
  */
 public class SimulatorValidator {
 
